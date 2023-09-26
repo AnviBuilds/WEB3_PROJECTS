@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+6ddd6db34537b2a993aeabc466bc6b728f4f5b17 refs/remotes/origin/asmhash
+7ca1e794258466cc08a2d2eb4c98feeccf2dfb69 refs/remotes/origin/delegateproxy
+ed6a4ea6c7b81807b06dd5c296905db893c05f0a refs/remotes/origin/develop
+bfca101b2407e4938398fccd8d1c485394db7e01 refs/remotes/origin/master
+d405d80969d345b5874a93954f039468d841c201 refs/remotes/origin/update-deps
